@@ -1,19 +1,8 @@
-# 🎈 Blank app template
+---
 
-A simple Streamlit app template for you to modify!
+📦 Drop this version directly into your GitHub repo as `README.md`.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://blank-app-template.streamlit.app/)
-
-### How to run it on your own machine
-
-1. Install the requirements
-
-   ```
-   $ pip install -r requirements.txt
-   ```
-
-2. Run the app
-
-   ```
-   $ streamlit run streamlit_app.py
-   ```
+If you'd like, I can now:
+- Generate a `CONTRIBUTING.md` for collaborators
+- Draft your first GitHub release
+- Auto-generate issue templates for bugs, features, and predictions
